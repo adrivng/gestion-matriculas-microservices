@@ -114,6 +114,9 @@ Para consumir los endpoints protegidos, sigue estos pasos:
 
 <img width="886" height="418" alt="image" src="https://github.com/user-attachments/assets/43e7d015-9587-4472-a5c9-114b1fffe167" />
 
+**2.1 Test Decodificación Tokens JWT**
+<img width="1545" height="1557" alt="screencapture-jwt-io-2026-11-20-17_12_25" src="https://github.com/user-attachments/assets/b617d6f2-e8b0-49e2-94a1-72d363a91f6e" />
+
 **3. Prueba de Endpoints Protegidos (Postman)**
 
 <img width="886" height="640" alt="image" src="https://github.com/user-attachments/assets/bfa5bc0d-e391-41a7-a5ff-3e1ea36bff46" />
