@@ -40,15 +40,3 @@ El sistema está dividido en servicios independientes que se comunican a través
 3. El cliente envía el token en el header `Authorization: Bearer <token>` a los microservicios.
 4. Spring Security en cada microservicio valida la firma criptográfica del token usando las llaves públicas de Keycloak.
 
-## ¿Cómo ejecutar el proyecto?
-
-### Requisitos previos
-- Tener Docker Desktop instalado y corriendo.
-- (Opcional) Tener Postman para probar las APIs.
-
-### Pasos
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/adrivng/gestion-matriculas-microservices.git
-   cd gestion-matriculas-microservices
-
