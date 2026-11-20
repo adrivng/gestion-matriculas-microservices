@@ -98,8 +98,6 @@ Para consumir los endpoints protegidos, sigue estos pasos:
 
 ## Capturas del Proyecto
 
-*(Aquí debes subir tus capturas a una carpeta llamada `/docs` o `/assets` en tu repo y enlazarlas usando la ruta relativa).*
-
 **1. Descubrimiento de Servicios (Eureka Server)**
 
 <img width="886" height="634" alt="image" src="https://github.com/user-attachments/assets/1080afc5-3c35-48c5-961d-1dbc9c4bb0e3" />
