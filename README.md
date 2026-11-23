@@ -96,42 +96,6 @@ Para consumir los endpoints protegidos, sigue estos pasos:
   }
   ```
 
-## Capturas del Proyecto
-
-**1. Descubrimiento de Servicios (Eureka Server)**
-
-<img width="886" height="634" alt="image" src="https://github.com/user-attachments/assets/1080afc5-3c35-48c5-961d-1dbc9c4bb0e3" />
-
-**2. Configuración de Seguridad (Keycloak)**
-
-<img width="886" height="444" alt="image" src="https://github.com/user-attachments/assets/be4abf63-9435-414f-b7c0-a54c18e111cd" />
-
-<img width="886" height="481" alt="image" src="https://github.com/user-attachments/assets/841bc0ae-ae67-4919-97b5-b86612961c02" />
-
-<img width="1920" height="927" alt="screencapture-localhost-8083-admin-master-console-2026-11-20-17_10_50" src="https://github.com/user-attachments/assets/bd1380dd-cb3c-46c7-9738-b70d199c71d0" />
-
-<img width="886" height="418" alt="image" src="https://github.com/user-attachments/assets/43e7d015-9587-4472-a5c9-114b1fffe167" />
-
-**2.1 Test Decodificación Tokens JWT**
-<img width="1545" height="1557" alt="screencapture-jwt-io-2026-11-20-17_12_25" src="https://github.com/user-attachments/assets/b617d6f2-e8b0-49e2-94a1-72d363a91f6e" />
-
-**3. Prueba de Endpoints Protegidos (Postman)**
-
-<img width="886" height="640" alt="image" src="https://github.com/user-attachments/assets/bfa5bc0d-e391-41a7-a5ff-3e1ea36bff46" />
-
-<img width="886" height="623" alt="image" src="https://github.com/user-attachments/assets/bd521537-a46e-4893-b14a-ca346ec53aa8" />
-
-<img width="886" height="620" alt="image" src="https://github.com/user-attachments/assets/9d4914ba-bdd4-4048-b96c-41299e82e4d9" />
-
-**4. Esquema Tablas (PostgreSQL)**
-
-<img width="886" height="498" alt="image" src="https://github.com/user-attachments/assets/ede3c954-d3be-4226-ba0a-10d58ef68f2f" />
-
-
-**5. Despliegue de Contenedores (Docker)**
-
-<img width="886" height="470" alt="image" src="https://github.com/user-attachments/assets/2e281210-4844-4370-82ac-f272b4d6d662" />
-
 
 ## Autor
 
